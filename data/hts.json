@@ -1,0 +1,16 @@
+[
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -36.12886,
+        -7.48174
+      ]
+    },
+    "accuracy": 20,
+    "emergency": false,
+    "timestamp": "2024-03-11T14:37:57.347Z",
+    "id": "2110009",
+    "timestampReceived": "2024-03-11T14:38:29.853Z"
+  }
+]
